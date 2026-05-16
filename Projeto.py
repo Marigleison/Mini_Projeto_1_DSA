@@ -1,6 +1,4 @@
 # manipulação de dados em tabelas
-from hmac import digest_size
-
 import pandas as pd
 # Geração de gráficos
 import matplotlib.pyplot as plt
